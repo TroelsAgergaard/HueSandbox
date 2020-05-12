@@ -1,0 +1,16 @@
+{
+  "title": "test",
+  "description": "stuff",
+  "steps": [
+    {
+      "file": "index.html",
+      "line": 4,
+      "description": "ting sker her"
+    },
+    {
+      "file": "hue.js",
+      "line": 1,
+      "description": "Her sker noget andet"
+    }
+  ]
+}
